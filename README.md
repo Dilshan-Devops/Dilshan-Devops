@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
+  <img height="200" src="https://lh3.googleusercontent.com/a/ACg8ocLVcVNnauCQrjOlTvnXkcH2ErizD1uO-3zpt5vGaCnInA=s360-c-no"  />
 </div>
 
 ###
@@ -38,18 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Dilshan-Devops/Dilshan-Devops/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Dilshan-Devops/count.svg?"  />
 </div>
 
 ###
